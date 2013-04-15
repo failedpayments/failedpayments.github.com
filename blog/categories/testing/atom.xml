@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Testing | My Octopress Blog]]></title>
   <link href="http://failedpayments.github.io/blog/categories/testing/atom.xml" rel="self"/>
   <link href="http://failedpayments.github.io/"/>
-  <updated>2013-04-15T16:24:44+02:00</updated>
+  <updated>2013-04-15T16:29:00+02:00</updated>
   <id>http://failedpayments.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -25,6 +25,13 @@
 <h2>Subtest</h2>
 
 <p>more testing!</p>
+
+<!--more-->
+
+
+<h2>Even more ...</h2>
+
+<p>... awesome content ...</p>
 ]]></content>
   </entry>
   
